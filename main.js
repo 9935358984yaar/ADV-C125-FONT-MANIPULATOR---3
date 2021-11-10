@@ -19,7 +19,7 @@ function draw() {
     document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference + " px";
     textSize(difference);
     fill('#FFE787');
-    text('Akshit', 100, 400);
+    text('Pravesh', 100, 400);
 }
 
 function modelLoaded() {
